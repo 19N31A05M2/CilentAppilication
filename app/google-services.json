@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "324665984536",
+    "firebase_url": "https://cilentapp-b9ce3-default-rtdb.firebaseio.com",
+    "project_id": "cilentapp-b9ce3",
+    "storage_bucket": "cilentapp-b9ce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324665984536:android:405e6590db835cd934e56d",
+        "android_client_info": {
+          "package_name": "com.example.cilentappilication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324665984536-cnm14janmh4ejakqomr445pn5iuld3vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv1v0pFna1ZpjylpnFGzVLGoOwsyImlqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324665984536-cnm14janmh4ejakqomr445pn5iuld3vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
